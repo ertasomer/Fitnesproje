@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8431ACD8-3C9E-4FC6-A05B-E67B677F2812}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>fitnesproje</RootNamespace>
+    <AssemblyName>fitnesproje</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FastReport, Version=2020.1.17.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dbislemleri.cs" />
+    <Compile Include="frmadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmadmin.Designer.cs">
+      <DependentUpon>frmadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmdeveloper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdeveloper.Designer.cs">
+      <DependentUpon>frmdeveloper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmguncellesil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmguncellesil.Designer.cs">
+      <DependentUpon>frmguncellesil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmkayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmkayit.Designer.cs">
+      <DependentUpon>frmkayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmkayitadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmkayitadmin.Designer.cs">
+      <DependentUpon>frmkayitadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmkbekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmkbekle.Designer.cs">
+      <DependentUpon>frmkbekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.cs">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmuye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmuye.Designer.cs">
+      <DependentUpon>frmuye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmadmin.resx">
+      <DependentUpon>frmadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdeveloper.resx">
+      <DependentUpon>frmdeveloper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmguncellesil.resx">
+      <DependentUpon>frmguncellesil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmkayit.resx">
+      <DependentUpon>frmkayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmkayitadmin.resx">
+      <DependentUpon>frmkayitadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmkbekle.resx">
+      <DependentUpon>frmkbekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmuye.resx">
+      <DependentUpon>frmuye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unauthorized-person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_66-1-587x300.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

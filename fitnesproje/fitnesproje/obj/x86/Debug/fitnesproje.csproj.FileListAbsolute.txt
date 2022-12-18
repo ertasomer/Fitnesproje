@@ -1,0 +1,66 @@
+c:\users\pc-1\documents\visual studio 2010\Projects\fitnesproje\fitnesproje\bin\Debug\fitnesproje.exe
+c:\users\pc-1\documents\visual studio 2010\Projects\fitnesproje\fitnesproje\bin\Debug\fitnesproje.pdb
+c:\users\pc-1\documents\visual studio 2010\Projects\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.Properties.Resources.resources
+c:\users\pc-1\documents\visual studio 2010\Projects\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.csproj.GenerateResource.Cache
+c:\users\pc-1\documents\visual studio 2010\Projects\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.exe
+c:\users\pc-1\documents\visual studio 2010\Projects\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.pdb
+c:\users\pc-1\documents\visual studio 2010\Projects\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmadmin.resources
+c:\users\pc-1\documents\visual studio 2010\Projects\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmlogin.resources
+C:\Users\PC-1\documents\visual studio 2010\Projects\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.csprojResolveAssemblyReference.cache
+C:\Users\PC-1\documents\visual studio 2010\Projects\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmdeveloper.resources
+C:\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.exe
+C:\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.pdb
+C:\fitnesproje\fitnesproje\bin\Debug\fitnesproje.exe
+C:\fitnesproje\fitnesproje\bin\Debug\fitnesproje.pdb
+C:\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.csprojResolveAssemblyReference.cache
+C:\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmadmin.resources
+C:\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmdeveloper.resources
+C:\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmlogin.resources
+C:\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.Properties.Resources.resources
+C:\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.csproj.GenerateResource.Cache
+C:\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmkayit.resources
+C:\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmuye.resources
+C:\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmkbekle.resources
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.exe
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.pdb
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\bin\Debug\fitnesproje.exe
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\bin\Debug\fitnesproje.pdb
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.csprojResolveAssemblyReference.cache
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmadmin.resources
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmdeveloper.resources
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmkayit.resources
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmkbekle.resources
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmlogin.resources
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmuye.resources
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.Properties.Resources.resources
+C:\Users\sanane\Desktop\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.csproj.GenerateResource.Cache
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.exe
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.pdb
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\bin\Debug\fitnesproje.exe
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\bin\Debug\fitnesproje.pdb
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.csprojResolveAssemblyReference.cache
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmadmin.resources
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmdeveloper.resources
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmkayit.resources
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmkbekle.resources
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmlogin.resources
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmuye.resources
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.Properties.Resources.resources
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.csproj.GenerateResource.Cache
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmkayitadmin.resources
+C:\Users\sanane\Desktop\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmguncellesil.resources
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.exe
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.pdb
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\bin\Debug\fitnesproje.exe
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\bin\Debug\fitnesproje.pdb
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.csprojResolveAssemblyReference.cache
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmadmin.resources
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmdeveloper.resources
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmguncellesil.resources
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmkayit.resources
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmkayitadmin.resources
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmkbekle.resources
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmlogin.resources
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.frmuye.resources
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.Properties.Resources.resources
+C:\Users\sanane\Desktop\dosyalar,\projeler\fitnesproje\fitnesproje\obj\x86\Debug\fitnesproje.csproj.GenerateResource.Cache
